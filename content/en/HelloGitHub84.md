@@ -241,7 +241,7 @@ john = table.find_one(name='John Doe')
 
 <p align="center"><img src='https://raw.githubusercontent.com/521xueweihan/img3/master/hellogithub/84/382787545.png' style="max-width:80%; max-height=80%;"></img></p>
 
-37、[llama.cpp](https://hellogithub.com/en/periodical/statistics/click?target=https://github.com/ggerganov/llama.cpp)：Running LLaMA Big Models on Notebooks. This project achieves smooth operation of LLaMA models on the CPU, supporting macOS, Linux, and Windows operating systems.
+37、[llama.cpp](https://hellogithub.com/en/periodical/statistics/click?target=https://github.com/ggml-org/llama.cpp)：Running LLaMA Big Models on Notebooks. This project achieves smooth operation of LLaMA models on the CPU, supporting macOS, Linux, and Windows operating systems.
 
 <p align="center"><img src='https://raw.githubusercontent.com/521xueweihan/img3/master/hellogithub/84/612354784.png' style="max-width:80%; max-height=80%;"></img></p>
 

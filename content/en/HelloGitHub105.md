@@ -32,7 +32,7 @@ Click the **「Table of Contents」** icon at the top-right corner to open the n
 
 <p align="center"><img src='https://raw.githubusercontent.com/521xueweihan/img4/master/hellogithub/105/188601229.png' style="max-width:80%; max-height=80%;"></img></p>
 
-6、[WLED](https://hellogithub.com/en/periodical/statistics/click?target=https://github.com/Aircoookie/WLED)：Wireless Control LED Strip. This project is a Web server running on ESP32 and ESP8266 that enables WiFi control of LED strip colors and effects, supporting 100 special effects, 50 color palettes, and 250 user-defined presets among other features.
+6、[WLED](https://hellogithub.com/en/periodical/statistics/click?target=https://github.com/wled/WLED)：Wireless Control LED Strip. This project is a Web server running on ESP32 and ESP8266 that enables WiFi control of LED strip colors and effects, supporting 100 special effects, 50 color palettes, and 250 user-defined presets among other features.
 
 <p align="center"><img src='https://raw.githubusercontent.com/521xueweihan/img4/master/hellogithub/105/76990209.png' style="max-width:80%; max-height=80%;"></img></p>
 

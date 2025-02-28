@@ -229,7 +229,7 @@ h_flow() # "Hello, World! I'm HelloGitHub!"
 
 <p align="center"><img src='https://raw.githubusercontent.com/521xueweihan/img3/master/hellogithub/82/575340621.png' style="max-width:80%; max-height=80%;"></img></p>
 
-31、[gitui](https://hellogithub.com/periodical/statistics/click?target=https://github.com/extrawurst/gitui)：带界面的 Git 命令行工具。该项目为 git 提供了终端界面，让用户可以更加顺畅地使用 git。交互式的操作提示，让你无需再记忆大量的 git 命令。
+31、[gitui](https://hellogithub.com/periodical/statistics/click?target=https://github.com/gitui-org/gitui)：带界面的 Git 命令行工具。该项目为 git 提供了终端界面，让用户可以更加顺畅地使用 git。交互式的操作提示，让你无需再记忆大量的 git 命令。
 
 <p align="center"><img src='https://raw.githubusercontent.com/521xueweihan/img3/master/hellogithub/82/247725846.gif' style="max-width:80%; max-height=80%;"></img></p>
 
